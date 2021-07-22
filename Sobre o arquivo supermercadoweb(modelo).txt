@@ -1,0 +1,4 @@
+Esse arquivo deve ser importado dentro do phpmyadmin.
+Ao importar esse arquivo aparecerá o banco SupermercadoWeb e dentro a tabela de cadastro clientes.
+
+Dentro desse banco deverá ficar as outras tabelas de produtos,funcionários etc
